@@ -1,4 +1,6 @@
 # shopping_list
+Welcome to Kezia's Shopping List!
+Microsoft App Link: https://install.appcenter.ms/orgs/myshoplist/apps/shopping-list/distribution_groups/public
 
 A new Flutter project.
 
